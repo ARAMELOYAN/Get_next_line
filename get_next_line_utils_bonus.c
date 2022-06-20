@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: aeloyan <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/06/03 18:39:59 by aeloyan           #+#    #+#             */
-/*   Updated: 2022/06/20 14:29:07 by aeloyan          ###   ########.fr       */
+/*   Created: 2022/06/20 15:33:24 by aeloyan           #+#    #+#             */
+/*   Updated: 2022/06/20 16:00:39 by aeloyan          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 #include <stdio.h>
 
 char	*my_strcut(char **str)
